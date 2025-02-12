@@ -6,7 +6,7 @@ const crubItem = require('../controllers/crubItem')
 
 
 
-mongoose.connect("mongodb+srv://danghakhanh:zsR2nPCeteB3cAv5@khanh.g1h5q.mongodb.net/")
+mongoose.connect("mongodb+srv://danghakhanh:zsR2nPCeteB3cAv5@khanh.g1h5q.mongodb.net/khanh")
 
 
 
